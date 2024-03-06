@@ -1,0 +1,36 @@
+.preto{
+    background-color: black;
+}
+.marrom{
+    background-color: rgb(112, 45, 0);
+}
+.vermelho{
+    background-color: red;
+}
+.laranja{
+    background-color: rgb(255, 102, 0);
+}
+.amarelo{
+    background-color: rgb(221, 224, 5);
+}
+.verde{
+    background-color: green;
+}
+.azul{
+    background-color: blue;
+}
+.violeta{
+    background-color: rgb(236, 95, 236);
+}
+.cinza{
+    background-color: rgb(44, 44, 44);
+}
+.branco{
+    background-color: white;
+}
+.dourado{
+    background-color: gold;
+}
+.prateado{
+    background-color: silver;
+}
